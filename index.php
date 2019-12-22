@@ -11,11 +11,11 @@
 	<thead>
 		<tr>
 		<th>Subject</th>
-		<th>Mon</th>
-		<th>Tue</th>
-		<th>Wed</th>
-		<th>Thu</th>
-		<th>Fri</th>
+		<th>Monday</th>
+		<th>Tueday</th>
+		<th>Wedday</th>
+		<th>Thuday</th>
+		<th>Friday</th>
 		</tr>
 	</thead>
 	   <tfoot>
